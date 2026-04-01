@@ -40,8 +40,6 @@ TaskManager/
 1. Open project in NetBeans / IDE
 2. Run TaskManager.java
 
-## Screenshot
-(Add screenshots here if available)
 
 ## Project Type
 College Assignment Project
